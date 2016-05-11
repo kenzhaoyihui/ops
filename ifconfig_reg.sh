@@ -8,7 +8,7 @@ a=`ifconfig |sed -n "/^eth[0-9]/p"|wc -l`
 declare -A key
 
 #进入循环，每次循环找到该网卡的ip地址，并作为关联数组key的值
-for((j=0;j<a;j++))
+for((j=0;j<=a-1;j++))
 do
 key[eth$j]=`ifconfig eth$j |grep 'inet addr' |awk '{print $2}'\ |awk  -F  ":"  '{print $2}'`
 done 
