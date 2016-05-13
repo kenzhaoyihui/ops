@@ -1,0 +1,18 @@
+1.split分割
+   split  [-<行数>][-b <字节>][-C <字节>][-l <行数>][要切割的文件][输出文件名]
+1）通过行数进行分割
+    wc -l access.log    计算日志文件的行数
+    split -l 10000 access.log accessnew.log
+2)通过日志大小进行分割
+    split -C access.log accessnew.log
+    
+2.awk进行日志分割
+   awk ‘{if (NR<120000) print $0}’ access.log > accessnew1.log 
+   awk ‘{if (NR>=120000) print $0}’ access.log >accessnew2.log
+   
+   
+缺陷：单纯的分割日志在日志的分析上并没有可以很条例的看出log
+
+建议写一个定时任务
+crontab -e
+3 * * * *  split -b 1M access.log access_$(date +%Y-%m-%d-%H-%M).log   每三分钟进行分割一次
