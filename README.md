@@ -1,2 +1,2 @@
 # ops
-ops reposiitory on github
+ops repository on github and some scripts about shell.
