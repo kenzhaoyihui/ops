@@ -13,7 +13,9 @@
 ## JOB OBJECTIVE
 * To obtain the Linux virtualization test development engineer position at Intel which providing the strong knowledge about Virtualization, Linux, Python, Shell...
 * Also, Intel is a good platform to improve myself and get practical skills.
-* I want to join to Intel and work well with the technology cow people and learn the intel's advanced technology
+* I want to join to Intel and work well with the technology cow people and learn the intel's advanced technology.
+* Like testing and good at discovering the problem,issue,bugs and finding the cause of the problem,issue,bugs , or sloving the problem,issue,bugs
+* Get familiar with the relevent knowledge of Virtualization, and has experience in virtualization testing 
 
 ## QUALIFICATIONS
 * Self-motivated, proactive, strict attitude, able to work under pressure and with sense of responsibility
@@ -45,6 +47,8 @@
  * Kickstart deployment profile
 
  * Deployed monitoring platform: Zabbix, Cacti, Nagios 
+ * Deployed the LAMP web service(Linux+Apache+Mysql+Php), modify the automation scriptes about deployment by shell.
+ * Deploy the openstack testing environment for developing.
 
 ## EXTRACURRICULAR ACTIVITIES AND LEARNING
  * The president of Network Technology Association, share the study experience about network 
