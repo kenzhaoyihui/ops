@@ -6,13 +6,14 @@
 * Age: 23
 * University: Nanjing University of Posts and Telecommunications
 * Major: Communication Engineering, Computer Network
-* Email: yzhao@redhat.com
+* Email: 2993614148@qq.com
 * Native Place: Nanjing City, Jiangsu Province, China
 * Github: [kenzhaoyihui](https://github.com/kenzhaoyihui)
 
 ## JOB OBJECTIVE
-* To obtain the Quality Engineering position at Red Hat in the oVirt product which providing the strong knowledge about Virtualization, Linux, Python, Shell...
-* Also, Red Hat is a good platform to improve myself and get practical skills.
+* To obtain the Linux virtualization test development engineer position at Intel which providing the strong knowledge about Virtualization, Linux, Python, Shell...
+* Also, Intel is a good platform to improve myself and get practical skills.
+* I want to join to Intel and work well with the technology cow people and learn the intel's advanced technology
 
 ## QUALIFICATIONS
 * Self-motivated, proactive, strict attitude, able to work under pressure and with sense of responsibility
@@ -25,16 +26,18 @@
 * Bachelor of Science in Management Science, Major in Financial Management in NJUPT(Nanjing University of Posts and Telecommunications), 09/2014 - 06/2017
 
 ##  EXPERIENCE
-###  RedHat(Beijing Raycom Office) Inc,  Intern in RHVH, 11/07/2016 - Present
- * Mainly responsible for Red Hat Enterprise Virtualization(RHVH) product Testing, bug reporting and tracking main features: HostedEngine, Cockpit-oVirt, executed tests on upstream for HostedEngine and Cockpit-ovirt
+###  RedHat(Beijing Raycom Office) Inc,  Intern and Regular in RHVH Team, 11/07/2016 - Present
+ * Mainly responsible for Red Hat Enterprise Virtualization(RHVH) product Testing, bug reporting and tracking main features: HostedEngine, Cockpit-oVirt, Networking, Installation and upgrade , executed test cases  on upstream for HostedEngine and Cockpit-ovirt
 
- * Followed up RHVH version 3.6, 4.0, 4.1 schedules, got experienced on testing workflow
+ * Followed up RHVH version 3.6, 4.0, 4.1 schedules, got experienced on testing workflow and design relevent cases about the RFE and compoments.
  
  * Deployed and test the new product KubeVirt on GitHub.[KubeVirt](https://github.com/kubevirt/kubevirt), in particular, already reported the issue on KubeVirt GitHub which identified the bug. 
  
  * Participated in Cockpit-HostedEngine automation development by Python and Shell.
  
  * Got familiar with OpenShift, Docker, Kubernetes technology. 
+ 
+ * Basic knowledge of JAVA SE, Python3, Shell script, Golang...
  
 ### Child Rearing Inc(Nanjing city), Intern in Operation Engineer, 24/03/2016 - 24/06/2016
  * Responsible for the maintenance of the network, as well as the Web Service environment, LANMP environment deployment and maintenance; Docker environment, Kubernetes deployment and maintenance
